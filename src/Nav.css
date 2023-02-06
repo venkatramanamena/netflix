@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+   flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+  
+}
+.netflix_logo{
+    object-fit: contain;
+    width: 100px;
+    top: 0;
+}
+.nav-black{
+    background-color: #111;
+}
+
+.user{
+object-fit: contain;
+    width:50px;
+    top: 0;
+}
